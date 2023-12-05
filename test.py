@@ -1,3 +1,10 @@
-ss = input("enter anthing: ")
+# input Base and Height from the user
 
-print(f"This is what you have entred: '{ss}'")
+base = float(input("Enter the base of the Triangle: "))
+height = float(input("Enter the height of the Triangle: "))
+
+
+#Calculate the area
+Area = 1/ 2 * base * height
+#Display the Area
+print(f"Area of the Triangle is : {Area}")
