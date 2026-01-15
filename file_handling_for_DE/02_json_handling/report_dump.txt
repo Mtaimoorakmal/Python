@@ -1,0 +1,7 @@
+Report generated: 2024-01-01
+System: ABC
+DATA_START
+{"id":1,"value":10}
+{"id":2,"value":20}
+DATA_END
+Checksum: XYZ

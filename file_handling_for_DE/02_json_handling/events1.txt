@@ -1,0 +1,4 @@
+{"event_id":1,"user":"A","amount":120,"ts":"2024-01-01T10:00:00Z"}
+{"event_id":2,"user":"B","amount":"INVALID","ts":"2024-01-01T10:05:00Z"}
+NOT_JSON_LINE
+{"event_id":3,"user":"C","amount":300,"ts":"2024-01-01T10:10:00Z"}
