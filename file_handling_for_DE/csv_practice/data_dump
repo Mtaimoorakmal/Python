@@ -1,0 +1,4 @@
+txn_id|user|amount|status
+1|A|500|success
+2|B|300|failed
+

@@ -1,0 +1,3 @@
+id,name,address
+1,"Alice","Street 1, New York"
+2,"Bob","Street 2, London"

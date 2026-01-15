@@ -1,0 +1,6 @@
+Report Generated On: 2024-01-05
+System: XYZ
+-------------------
+order_id,amount
+1,100
+2,200

@@ -1,0 +1,2 @@
+{"event_id":1,"user":{"id":10,"name":"Ali"},"device":{"os":"ios","ver":"17.1"},"amount":200}
+{"event_id":2,"user":{"id":11,"name":"Sara"},"device":{"os":"android","ver":"14"},"amount":150}
