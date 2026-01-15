@@ -26,5 +26,5 @@ This is **interview-oriented** and **production-minded**, not just theory.
 
 ---
 
-## 📁 Folder Structure
+
 
